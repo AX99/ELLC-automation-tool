@@ -1,6 +1,6 @@
 #ELLC Choice Homes Property Automation Tool
 
-This python automation tool logs you into the (ELLC Choice Homes)[ellcchoicehomes.org.uk/] website
+This python automation tool logs you into the [East London Lettings Company](ellcchoicehomes.org.uk/) website
 using the credentials in the [Secrets.py](Secrets.py) file. (You must have an account for this to work)
 
 ##Usage
@@ -15,7 +15,7 @@ Enter the following:
 1. Open the file directory in your command shell
 2. Create and activate a virtual environment.
 2. Run the following to install dependencies:
-   - 'pip install -r requirements.txt'
+   - `pip install -r requirements.txt`
 3. Run the following to run the app:
-   - 'python3 main.py' 
+   - `python3 main.py`
    (Your browser may ask you to allow connections, click yes/allow)
