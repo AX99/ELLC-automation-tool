@@ -19,3 +19,8 @@ Enter the following:
 3. Run the following to run the app:
    - `python3 main.py`
    (Your browser may ask you to allow connections, click yes/allow)
+
+  
+---
+  
+![screenshot](ellc.gif)
